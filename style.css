@@ -3,11 +3,11 @@ body {
     margin: 0;
     padding: 0;
     color: #fff;
-    background-color: #333;
+    background-color: #3D2B1F;
 }
 
 header {
-    background-color: #222;
+    background-color: #3D2B1F;
     padding: 20px;
     display: flex;
     justify-content: space-between;
@@ -15,7 +15,7 @@ header {
 }
 
 .logo img {
-    width: 70px; /* Adjust the width as needed */
+    width: 70px; 
     height: auto;
 }
 
@@ -39,7 +39,7 @@ nav ul li a:hover {
 .about {
     position: relative;
     text-align: center;
-    padding: 200px 30px; /* Можливо зменшити верхній відступ */
+    padding: 200px 30px; 
     background: url('img/foto.jpg') no-repeat center center/cover;
 }
 
@@ -57,15 +57,15 @@ nav ul li a:hover {
 }
 
 .about-text {
-    text-align: center; /* Вирівнюємо текст по центру */
+    text-align: center; 
 }
 
 .about-text h1, .about-text h2 {
-    margin: 0; /* Скидаємо відступи */
+    margin: 0; 
 }
 
 .about-text h1 {
-    margin-bottom: 20px; /* Встановлюємо відстань між заголовками */
+    margin-bottom: 20px; 
     font-size: 48px;
     font-weight: bold;
 }
@@ -113,7 +113,7 @@ nav ul li a:hover {
 }
 
 .img-glava {
-    width: 400px;
+    width: 200px;
     border-radius: 20px;
     margin-right: 50px;
 }
