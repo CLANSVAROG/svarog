@@ -27,9 +27,9 @@ header {
 nav ul {
     list-style: none;
     display: flex;
-    gap: 20px;
+    gap: 15px;
     margin: 0;
-    padding: 0;
+    padding: 0 35px;
 }
 
 nav ul li a {
@@ -48,7 +48,7 @@ nav ul li a:hover {
     text-align: center;
     padding: 200px 30px;
     background: url('img/zastavka.png') no-repeat center center/cover;
-    margin-top: 100px; /* Це зрушення для компенсації фіксованого хедера */
+    margin-top: 100px; 
 }
 
 .overlay {
